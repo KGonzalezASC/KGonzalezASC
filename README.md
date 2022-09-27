@@ -10,7 +10,7 @@
 - 🤠 Portfolio site: 
 
 
-- 📫 How to reach me  keithythefrog@gmail.com, Linkedin:  https://www.linkedin.com/in/keithythefrog/
+- 📫 How to reach me:  keithythefrog@gmail.com, Linkedin:  https://www.linkedin.com/in/keithythefrog/
 
 <!---
 KGonzalezASC/KGonzalezASC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
