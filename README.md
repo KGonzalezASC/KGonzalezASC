@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @KGonzalezASC
-- 👀 I’m interested in Game Development (unity, c#) and Microsoft WPF and Maui
-- 🌱 I’m currently learning: Game Development
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me @keithythefrog (twitter, instagram), keithythefrog@gmail.com, Linkedin:  https://www.linkedin.com/in/keithythefrog/
+- 👋 Hi, I’m @KGonzalezASC, a sophomore in Game Development at the  Rochester Institute of Technology. 
+- 🤓 Relevant Skills:
+       C#, ASPCore.Net, Entity Framework, Java, JavaScript, HTML, CSS, AWS, Docker
+
+
+
+
+- 📫 How to reach me  keithythefrog@gmail.com, Linkedin:  https://www.linkedin.com/in/keithythefrog/
 
 <!---
 KGonzalezASC/KGonzalezASC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
