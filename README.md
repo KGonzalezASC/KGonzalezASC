@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @KGonzalezASC, a sophomore in Game Development at the  Rochester Institute of Technology. 
+- 👋 Hi, I’m @KGonzalezASC, a junior in Game Development at the  Rochester Institute of Technology. 
 - 🤓 Relevant Skills:
-       C#, ASPCore.Net, Entity Framework, C++, JavaScript, HTML, CSS, AWS, Docker, Arch Linux
+       C#, ASPCore.Net, Entity Framework, C++, JavaScript, React, Typescript, Azure, Docker, Arch Linux
 - 🏅 Unity Certified User: Programmer (Aug 2021) 
 - 🏅 Recipient of Entertainment Software Association (2021-2022) Computer and VideoGame Arts Scholarship 
-- 👻 Currently Working on:
-       -Portfolio Projects
-       -Linkedin Learning WebAPI courses
+- 👻 Currently Working as:
+       -Simone Center Innovation Fellow using Azure, Typescript and React
       
 - 🤠 Portfolio site: 
 
