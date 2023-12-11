@@ -4,7 +4,7 @@
 - 🏅 Unity Certified User: Programmer (Aug 2021) 
 - 🏅 Recipient of Entertainment Software Association (2021-2022) Computer and VideoGame Arts Scholarship 
 - 👻 Currently Working as:
-       -Private client in medical industry
+       -Private client in the medical industry
       
 - 🤠 Portfolio site: 
 
