@@ -3,7 +3,7 @@
        C#, ASPCore.Net, Entity Framework, C++, JavaScript, React, Typescript, Azure, Docker, Arch Linux, Blender, Unity
 - 🏅 Unity Certified User: Programmer (Aug 2021) 
 - 🏅 Recipient of Entertainment Software Association (2021-2022) Computer and VideoGame Arts Scholarship 
-- 👻 Currently Working as:
+- 👻 Currently Working for:
        -Private client in the medical industry
       
 - 🤠 Portfolio site: 
